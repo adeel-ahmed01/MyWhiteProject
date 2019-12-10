@@ -1,0 +1,8 @@
+---
+Test
+---
+!2 Getting Vat computed amounts for different countries
+
+|			 Compute Vat       	     |
+|amount     |french vat ? |german vat ? |
+|1000		|200 |190|
